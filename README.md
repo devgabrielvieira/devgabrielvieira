@@ -16,9 +16,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=devgabrielvieira)
-
- <a href="https://www.linkedin.com/in/devgabrielvieira/" target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=devgabrielvieira&theme=dark&show_icons=true)
           
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devgabrielvieira/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/devgabrielvieira/)
