@@ -1,9 +1,8 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Oi 👋
-Sou estudante em Analise e Desenvolvimento de Sistemas e estou em busca de oportunidades e colaboração em projetos relacionados.
+### Oi 👋, eu sou Gabriel 🧑‍🎓
+Estudante de Análise e Desenvolvimento de Sistemas e estou em busca de oportunidades e colaboração em projetos relacionados.
 - 🔭 Atualmente estou trabalhando como analista de TI.
-- 🌱 Atualmente estou aprendendo engenharia de softaware e modelagem de dados.
+- 🌱 Atualmente estou aprendendo engenharia de software e modelagem de dados.
 - 🤝 Estou procurando colaborar em projetos HTML e CSS.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=devgabrielvieira)
