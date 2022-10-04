@@ -4,6 +4,21 @@
 - 🔭 Atualmente estou trabalhando como analista de TI.
 - 🌱 Atualmente estou aprendendo Analise e Desenvolvimento de Sistemas.
 - 🤝 Estou procurando colaborar em projetos HTML e CSS.
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
+<br>
+
+### 🖥️ Tecnologias e Ferramentas:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" heigth="40"/>
+                  
+<br>
+
+## Estou aprendendo:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+
+<br>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=devgabrielvieira)
 
