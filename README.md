@@ -2,7 +2,7 @@
 ### Olá 👋 DEVS, me chamo Gabriel 🧑‍🎓! 
 
 - 🔭 Atualmente estou trabalhando como analista de TI.
-- 🌱 Atualmente estou aprendendo Analise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 - 🤝 Estou procurando colaborar em projetos HTML e CSS.
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
