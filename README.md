@@ -4,8 +4,8 @@
 - 🔭 Atualmente estou trabalhando como analista de TI.
 - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 - 🤝 Estou procurando colaborar em projetos HTML e CSS.
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- 😄 Pronomes: Focado, esforçado
+- ⚡ Curiosidades: Amante de tecnoligia. 
 
 
 <h3>🖥️ Tecnologias e Ferramentas:</h3>
