@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como analista de TI.
 - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
-- 🤝 Estou procurando colaborar em projetos HTML e CSS.
+- 🤝 Estou procurando colaborar em projetos Python/Pandas.
 - 😄 Pronomes: Focado, esforçado.
 - ⚡ Curiosidades: Amante de tecnologia e outras cositas mais...
 
