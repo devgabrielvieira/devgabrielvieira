@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como analista de TI.
 - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
-- 🤝 Estou procurando colaborar em projetos Python/Pandas.
+- 🤝 Estou procurando colaborar em projetos Python/Pandas/Pyautogui/Selenium.
 - 😄 Pronomes: Focado, esforçado.
 - ⚡ Curiosidades: Amante de tecnologia e outras cositas mais...
 
@@ -15,7 +15,7 @@
 
 <h3>📚 Estou aprendendo:</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
           
           
           
