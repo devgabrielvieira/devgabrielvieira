@@ -22,8 +22,6 @@
 
 <div>
 <a href="https://github.com/devgabrielvieira">
-><img height="150em" src="https://github-readme-stats.vercel.app/api?username=devgabrielvieira&show_icons=true&theme=transparent"/>
-><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvieira&layout=compact&langs_count=7&theme=transparent"/>
 </div>
  
 <h3>👍 Redes Sociais:</h3> 
