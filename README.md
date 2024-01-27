@@ -1,8 +1,8 @@
 
 ### Olá 👋 DEVS, me chamo Gabriel 🧑‍🎓! 
 
-- 🔭 Atualmente estou trabalhando como analista de TI.
-- 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
+- 🔭 Atualmente estou à procura de emprego.
+- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas.
 - 🤝 Estou procurando colaborar em projetos Python/Pandas/Pyautogui/Selenium.
 - 😄 Pronomes: Focado, esforçado.
 - ⚡ Curiosidades: Amante de tecnologia e outras cositas mais...
