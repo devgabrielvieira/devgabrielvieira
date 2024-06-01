@@ -1,16 +1,23 @@
 
 ### Olá 👋 DEVS, me chamo Gabriel 🧑‍🎓! 
 
-- 🔭 Atualmente estou à procura de emprego.
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas.
-- 🤝 Estou procurando colaborar em projetos Python/Pandas/Pyautogui/Selenium.
-- 😄 Pronomes: Focado, esforçado.
-- ⚡ Curiosidades: Amante de tecnologia e outras cositas mais...
+🌟 **Transformando ideias em código** 🌟
+
+🎓 **Análise e Desenvolvimento de Sistemas**  
+💡 **HTML | CSS | PYTHON | DJANGO**
+
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Com uma sólida base em análise de sistemas e habilidades afiadas em HTML, CSS, Python e Django, adoro transformar desafios complexos em produtos digitais impactantes.
+Quando não estou codificando, você pode me encontrar explorando novas tecnologias, participando de hackathons ou colaborando em projetos de código aberto.
+
+**Vamos nos conectar e construir o futuro juntos!** 🚀✨
+
 
 
 <h3>🖥️ Tecnologias e Ferramentas:</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" heigth="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" heigth="40"/>
+          
+
 <br>  
 
 <h3>📚 Estou aprendendo:</h3>
