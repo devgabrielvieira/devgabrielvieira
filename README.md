@@ -6,7 +6,7 @@
 🎓 **Análise e Desenvolvimento de Sistemas**  
 💡 **HTML | CSS | PYTHON | DJANGO**
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Com uma sólida base em análise de sistemas e habilidades afiadas em HTML, CSS, Python e Django, adoro transformar desafios complexos em produtos digitais impactantes.
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Com uma sólida base em análise de sistemas e habilidades em HTML, CSS, Python e Django, adoro transformar desafios complexos em produtos digitais impactantes.
 Quando não estou codificando, você pode me encontrar explorando novas tecnologias, participando de hackathons ou colaborando em projetos de código aberto.
 
 **Vamos nos conectar e construir o futuro juntos!** 🚀✨
