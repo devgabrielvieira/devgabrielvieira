@@ -13,14 +13,6 @@ Quando não estou codificando, você pode me encontrar explorando novas tecnolog
 
 ###
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devgabrielvieira&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devgabrielvieira&theme=vue-dark&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvieira&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" />
-</div>
-
-###
-
 <h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
 
 ###
@@ -51,7 +43,7 @@ Quando não estou codificando, você pode me encontrar explorando novas tecnolog
 
 ###
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devgabrielvieira/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dev.gabivieira/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devgabrielvieira/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?  &style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dev.gabivieira/)
 
 ###
 
@@ -60,7 +52,8 @@ Quando não estou codificando, você pode me encontrar explorando novas tecnolog
 ###
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devgabrielvieira&theme=dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_height=220" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=devgabrielvieira&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvieira&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
 
 ###
