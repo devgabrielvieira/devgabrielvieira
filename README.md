@@ -4,7 +4,7 @@
 🌟 **Transformando ideias em código** 🌟
 
 🎓 **Desenvolvedor Python Django**  
-💡 ** PYTHON | DJANGO**
+💡 **PYTHON | DJANGO**
 
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Com uma sólida base em análise de sistemas e habilidades em Python e Django, adoro transformar desafios complexos em produtos digitais impactantes.
 Quando não estou codificando, você pode me encontrar explorando novas tecnologias, participando de hackathons ou colaborando em projetos de código aberto.
