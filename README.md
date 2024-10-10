@@ -1,12 +1,12 @@
 
 ### Olá 👋 DEVS, me chamo Gabriel! 
 
-🌟 **Transformando ideias em código** 🌟
-
 🎓 **Analista de Sistemas**  
-💡 **PYTHON | DJANGO**
+💡 **Python | Django**
 
 Recém-formado em Análise e Desenvolvimento de Sistemas, com uma sólida experiência de 15 anos em infraestrutura de redes e montagem/manutenção de computadores. Tenho expertise em Python, Django, Git e GitHub, e sou apaixonado por resolver problemas técnicos e desenvolver soluções criativas com código. Atualmente, estou focado em transitar para o desenvolvimento backend, aplicando minhas habilidades adquiridas em projetos de tecnologia da informação.
+
+🌟 **Transformando ideias em código** 🌟
 
 **Vamos nos conectar e construir o futuro juntos!** 🚀✨
 
