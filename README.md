@@ -3,11 +3,10 @@
 
 🌟 **Transformando ideias em código** 🌟
 
-🎓 **Desenvolvedor Python Django**  
+🎓 **Analista de Sistemas**  
 💡 **PYTHON | DJANGO**
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Com uma sólida base em análise de sistemas e habilidades em Python e Django, adoro transformar desafios complexos em produtos digitais impactantes.
-Quando não estou codificando, você pode me encontrar explorando novas tecnologias, participando de hackathons ou colaborando em projetos de código aberto.
+Recém-formado em Análise e Desenvolvimento de Sistemas, com uma sólida experiência de 15 anos em infraestrutura de redes e montagem/manutenção de computadores. Tenho expertise em Python, Django, Git e GitHub, e sou apaixonado por resolver problemas técnicos e desenvolver soluções criativas com código. Atualmente, estou focado em transitar para o desenvolvimento backend, aplicando minhas habilidades adquiridas em projetos de tecnologia da informação.
 
 **Vamos nos conectar e construir o futuro juntos!** 🚀✨
 
