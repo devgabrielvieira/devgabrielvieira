@@ -1,14 +1,13 @@
-
-### Olá 👋 DEVS, me chamo Gabriel! 
+### Olá 👋 DEVs, me chamo Gabriel Vieira!
 
 🎓 **Analista de Sistemas**  
-💡 **Python | Django**
+💡 **Desenvolvimento Backend | Redes | Suporte Técnico**
 
-Recém-formado em Análise e Desenvolvimento de Sistemas, com uma sólida experiência de 15 anos em infraestrutura de redes e montagem/manutenção de computadores. Tenho expertise em Python, Django, Git e GitHub, e sou apaixonado por resolver problemas técnicos e desenvolver soluções criativas com código. Atualmente, estou focado em transitar para o desenvolvimento backend, aplicando minhas habilidades adquiridas em projetos de tecnologia da informação.
+Formado em Análise e Desenvolvimento de Sistemas, com 15 anos de experiência em infraestrutura de redes e montagem/manutenção de computadores. Tenho uma base sólida em Python e Django, além de experiência com acesso remoto e soluções técnicas inovadoras. Meu foco atual é no desenvolvimento backend, onde combino criatividade e habilidades técnicas para transformar desafios em soluções eficientes e escaláveis. Sempre aberto a novas ideias e colaborações, estou pronto para usar minha paixão por tecnologia para criar o futuro.
 
-🌟 **Transformando ideias em código** 🌟
+🌟 **Transformando ideias em soluções inteligentes** 🌟
 
-**Vamos nos conectar e construir o futuro juntos!** 🚀✨
+**Vamos nos conectar e construir juntos!** 🚀✨
 
 ###
 
@@ -16,8 +15,8 @@ Recém-formado em Análise e Desenvolvimento de Sistemas, com uma sólida experi
 
 ###
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" alt="github logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50" heigth="50" alt="postgresql logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" heigth="50" alt="microsoftsqlserver logo"/>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="50" alt="django logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" alt="github logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50" heigth="50" alt="postgresql logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" heigth="50" alt="microsoftsqlserver logo"/>
 </div>          
 
 ###
@@ -27,7 +26,7 @@ Recém-formado em Análise e Desenvolvimento de Sistemas, com uma sólida experi
 ###
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="50" alt="django logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" height="50" alt="streamlit logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="amazonwebservices logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="docker logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" height="50" alt="streamlit logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="amazonwebservices logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="docker logo" />
 </div>
 
 ###
