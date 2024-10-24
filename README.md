@@ -9,6 +9,8 @@ Formado em Análise e Desenvolvimento de Sistemas, com 15 anos de experiência e
 
 **Vamos nos conectar e construir juntos!** 🚀✨
 
+<img src="./gif/programador_sr.gif" alt="Ilustração de um Programador" min-width="40%" max-width="40%" width="40%" align="right">
+
 ###
 
 <h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
