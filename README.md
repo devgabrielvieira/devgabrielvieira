@@ -1,5 +1,7 @@
 ### Olá 👋 DEVs, me chamo Gabriel Vieira!
 
+<img src="./gif/programador_sr.gif" alt="Ilustração de um Programador" min-width="40%" max-width="40%" width="40%" align="right">
+
 🎓 **Analista de Sistemas**  
 💡 **Desenvolvimento Backend | Redes | Suporte Técnico**
 
@@ -8,8 +10,6 @@ Formado em Análise e Desenvolvimento de Sistemas, com 15 anos de experiência e
 🌟 **Transformando ideias em soluções inteligentes** 🌟
 
 **Vamos nos conectar e construir juntos!** 🚀✨
-
-<img src="./gif/programador_sr.gif" alt="Ilustração de um Programador" min-width="40%" max-width="40%" width="40%" align="right">
 
 ###
 
