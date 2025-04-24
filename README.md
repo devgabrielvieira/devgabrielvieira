@@ -26,7 +26,7 @@ Formado em Análise e Desenvolvimento de Sistemas, com 15 anos de experiência e
 
 ###
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devgabrielvieira/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?  &style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dev.gabivieira/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/devgabrielvieira/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/dev.gabivieira/)
 
 ###
 
