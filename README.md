@@ -5,7 +5,7 @@
 📍 Magé, RJ — Híbrido / Remoto / Presencial &nbsp;|&nbsp; 🏢 Infrabout Tecnologia — Holding V.tal | Nio | Tecto &nbsp;|&nbsp; 🛡️ Foco em Gestão de Endpoints em Escala, Identidade e Produtividade Microsoft
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-devgabrielvieira.github.io-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devgabrielvieira.github.io/)
-[![Currículo PDF](https://img.shields.io/badge/Currículo-PDF-0F172A?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/13UPJZn6yITr-nGJlcWLw5schKr8feDB3/view?usp=sharing)
+[![Currículo PDF](https://img.shields.io/badge/Currículo-PDF-0F172A?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1kOvmghR2ceYuYAkesTTYs8Kt-mHwQnZy/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devgabrielvieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgabrielvieira/)
 [![GitHub](https://img.shields.io/badge/GitHub-devgabrielvieira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devgabrielvieira)
 
