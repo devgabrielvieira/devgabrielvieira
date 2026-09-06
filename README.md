@@ -116,7 +116,7 @@ Aberto a oportunidades como **Analista Modern Workplace / Endpoint Management**.
   <br/>
   <img src="https://streak-stats.demolab.com?user=devgabrielvieira&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br/>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=devgabrielvieira&icon=2&color=0" alt="visit count" /></a>
+  <img src="https://komarev.com/ghpvc/?username=devgabrielvieira&label=Profile%20views&color=0078D4&style=flat" alt="Profile views" />
 </div>
 
 <!-- Fallback original (github-readme-stats) temporariamente fora do ar 503 em 05/09/2026 - reativar quando voltar:
