@@ -111,14 +111,12 @@ Aberto a oportunidades como **Analista Modern Workplace / Endpoint Management**.
 ### 📊 Estatísticas
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devgabrielvieira&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvieira&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="150" />
-</div>
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=devgabrielvieira&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
-[![](https://visitcount.itsvg.in/api?id=devgabrielvieira&icon=2&color=0)](https://visitcount.itsvg.in)
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=devgabrielvieira&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvieira&theme=tokyonight&hide_border=true&layout=compact" />
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=devgabrielvieira&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <br/>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=devgabrielvieira&icon=2&color=0" alt="visit count" /></a>
 </div>
 
 ---
