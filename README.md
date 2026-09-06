@@ -111,13 +111,19 @@ Aberto a oportunidades como **Analista Modern Workplace / Endpoint Management**.
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=devgabrielvieira&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvieira&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devgabrielvieira&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devgabrielvieira&theme=tokyonight" alt="Top Languages" />
   <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=devgabrielvieira&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://streak-stats.demolab.com?user=devgabrielvieira&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br/>
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=devgabrielvieira&icon=2&color=0" alt="visit count" /></a>
 </div>
+
+<!-- Fallback original (github-readme-stats) temporariamente fora do ar 503 em 05/09/2026 - reativar quando voltar:
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=devgabrielvieira&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvieira&theme=tokyonight&hide_border=true&layout=compact" />
+<img src="https://github-contributor-stats.vercel.app/api?username=devgabrielvieira&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+-->
 
 ---
 
